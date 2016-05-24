@@ -14,5 +14,5 @@ main()
 	return 0;
 }
 ```
-![](Untitled.PNG)
-![](Untitled1.PNG)
+![](Untitled.png)
+![](Untitled1.png)
