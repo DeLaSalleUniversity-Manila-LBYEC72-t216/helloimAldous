@@ -1,6 +1,6 @@
 # helloimAldous
 HELLO WOOOORRRLD
-...
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -13,6 +13,6 @@ main()
 	printf("\n--------------------------------------------------------------------------------");
 	return 0;
 }
-...
+```
 ![](Untitled.PNG)
 ![](Untitled1.PNG)
